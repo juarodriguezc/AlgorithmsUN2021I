@@ -1,3 +1,3 @@
 # AlgorithmsUN2021I
 
-Todos los códigos fueron realizados en C++.
+Los códigos fueron realizados en C++ y/o Python
